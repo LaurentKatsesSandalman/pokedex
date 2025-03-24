@@ -1,0 +1,6 @@
+In "pourquoi utiliser des composants", one should read "https://react.dev/learn/thinking-in-react"
+"https://react.dev/learn/thinking-in-react" leads to "https://react.dev/learn" at step 2.
+"https://react.dev/learn" as a "Writing markup with JSX" section.
+But JSX is supposed to be explained only later in the quest, in "Le JSX"
+
+Through the quest itself + the readings, a LOT of information is provided, in a hard-to-digest flow 
