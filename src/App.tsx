@@ -1,10 +1,12 @@
 import "./App.css";
 
+import PokemonCard from "./components/PokemonCard";
+
 function App() {
   return (
-    <section>
-      <h1>Hello React</h1>
-    </section>
+    <div>
+      <PokemonCard />
+    </div>
   );
 }
 
